@@ -1,0 +1,9 @@
+IF for P-H2AX and p53
+
+
+Channel 1: DAPI
+Channel 2: Goat anti-rabbit Alexa fluor-488  (p53) - Abcam (unless mentioned, the experiment is with CST antibody)
+Channel 3: Goat anti-mouse Alexa fluor-555 (P-H2A.X)
+
+Overnight primary incubation and 120 minutes secondary incubation.
+7 minutes DAPI incubation. 0.3% triton-x for 10 minutes for permeabilization and 10 minutes fixation with 4% PFA.
