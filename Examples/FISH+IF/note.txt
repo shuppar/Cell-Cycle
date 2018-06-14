@@ -1,0 +1,7 @@
+p53 IF + smFISH
+
+
+Channel 1: DAPI
+Channel 2: p53 protein
+Channel 3: p53 mRNA
+
